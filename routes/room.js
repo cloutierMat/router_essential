@@ -13,7 +13,7 @@ router.get('/', (req, res) => {
 // This is how you pass parameters from the url.
 // the address /room/writeWhatEverYouWantHere would load your req.params accordingly
 router.get('/:variable', (req, res) => {
-	res.send(`sent from '/:params' in room.js you entered:${req.params.variable}`)
+	res.send(`sent from '/:variable' in room.js you entered:${req.params.variable}`)
 })
 
 // export the router so that all of those endpoints are ready to be imported in server.js
