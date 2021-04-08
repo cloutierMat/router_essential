@@ -1,4 +1,5 @@
-#Router Essential
+# Router Essential
+
 You will find here only the barebone needed code to replicate what Tony did in class today to route his endpoints to a seperate file
 
 It is by no means a replacement to his course and slides, where you will find much more information. 
@@ -18,5 +19,7 @@ In your browser try those 3 urls and see where they come from
 Hopefully it will bring some light in the darkness of everybody's life
 
 http://localhost:3000/
+
 http://localhost:3000/room
+
 http://localhost:3000/room/InsertYourFavoriteWords
