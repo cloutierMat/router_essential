@@ -15,7 +15,8 @@ npm start
 ```
 
 ## Try it out
-In your browser try those 3 urls and see where they come from
+In your browser try those 3 urls and see where they come from.
+
 Hopefully it will bring some light in the darkness of everybody's life
 
 http://localhost:3000/
